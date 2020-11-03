@@ -1,0 +1,3 @@
+[submodule "sqlite3-amalgamation-mirror"]
+	path = sqlite3-amalgamation-mirror
+	url = https://github.com/jameswilddev/sqlite3-amalgamation-mirror
